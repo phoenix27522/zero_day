@@ -1,0 +1,1 @@
+it will print the kernel name of the operating system in my case "linux"
